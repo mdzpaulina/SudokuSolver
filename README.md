@@ -11,7 +11,6 @@ A web-based Sudoku solver built with **React + Vite**, featuring a backtracking 
 ## Tech Stack
 - **Frontend:** React, Vite, CSS Grid
 - **Algorithm:** Backtracking with row/col/box trackers
-- **Deployment:** (Optional) Vercel/Netlify for live demo
 
 ## How to run
 ```bash
